@@ -1,9 +1,12 @@
 <div align="center">
   <img src="https://brand.zander.wtf/Avatar.png" width="140">
   <h1>
-    notes.zander.wtf
+    https://notes.zander.wtf
   </h1>
 
+  https://github.com/mrmartineau/notes.zander.wtf
+  
+  
 > Notes on code. My memory bank.
 
 </div>
